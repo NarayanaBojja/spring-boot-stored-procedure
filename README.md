@@ -1,6 +1,4 @@
-#Spring boot app to call stored procedure 
-
-# Mysql
+# Spring boot app to call stored procedure 
 
 1. Run below sql script in Mysql work bench
 
